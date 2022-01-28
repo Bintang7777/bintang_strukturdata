@@ -1,0 +1,2 @@
+# bintang_strukturdata
+UAS
